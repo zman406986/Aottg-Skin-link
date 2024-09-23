@@ -1,5 +1,5 @@
 # Aottg-Skin-link
-a plce to put links for skin images for the game AOTTG
+a place to put links for skin images for the game AOTTG
 
 2B皮肤
 skin:
